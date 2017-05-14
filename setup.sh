@@ -13,4 +13,5 @@ mv vimrc ~/.vimrc
 
 #setup gnome theme
 mkdir ~/.themes
-tar xvf CustomDarkGnomeTheme.tar ~/.themes/CustomDark
+tar -xvf CustomDarkGnomeTheme.tar 
+mv "Custom Dark"/ ~/.themes/"Custom Dark"
